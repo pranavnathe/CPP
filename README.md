@@ -6,6 +6,12 @@
 g++ hello_world.cpp && ./a.out
 ```
 
+## add -std=c++11 to run vector code
+
+```
+g++ -std=c++11 LinearSeach.cpp && ./a.out
+```
+
 > [!NOTE]
 > This syntax will work on mac system only.
 
